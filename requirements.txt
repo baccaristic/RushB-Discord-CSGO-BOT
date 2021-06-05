@@ -1,0 +1,8 @@
+discord
+requests
+cloudscraper
+currency_converter
+pycountry
+valve
+python-valve
+csgo
